@@ -4,7 +4,7 @@ a variable fun made small app in C++
 what is a variable and where it is stored
 a big question just like the other staffs i upload
 
-we assumea variable with a type of X and name of Y
+we assume a variable with a type of X and name of Y
 now lets assume a number of the same variable as Z 
 now lets mix add or multiple them 
 with the type of UNKNOWN and name of DONT_KNOW
